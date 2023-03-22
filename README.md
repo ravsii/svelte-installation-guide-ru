@@ -1,2 +1,7 @@
-# svelte-installation-guide-ru
-Instructions on how to install svelte+routify (in Russian)
+# Шаблон Svelte проекта
+
+В данном репозитории находится гайд по установке Svelte для тех, кто раньше не работал с подобными проектами.
+
+Сам гайд находится в файле [GUIDE_RU.md](./GUIDE_RU.md), а конечный проект находится в этом репозитории.
+
+Пример готового проекта вместе со связкой Java + Spring Boot можно увидеть [тут](https://github.com/ravsii/tweeter). (но без пояснений)
