@@ -5,7 +5,9 @@
   metatags.description = 'Description coming soon...'
 </script>
 
-<h1 class="m-4 text-red-500">Routify Starter Template</h1>
+<h1 class="p-4 m-4 text-xl text-red-500 border border-red-500">
+  Routify Starter Template
+</h1>
 
 <p>
   To see an example app that shows off a lot of Routify's features, go to <a
