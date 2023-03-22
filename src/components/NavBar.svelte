@@ -10,6 +10,10 @@
       name: 'Тест',
       path: '/test',
     },
+    {
+      name: 'Отправить тестовый запрос',
+      path: '/restTest',
+    },
   ]
 </script>
 
